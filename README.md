@@ -48,7 +48,15 @@ Dev       →  Git · GitHub · VS Code
 
 ## GitHub Stats
 
-![shahib4asan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahib4asan&show_icons=true&theme=github_dark&hide_border=true&title_color=FF9933&icon_color=FF9933)
+<div align="center">
+
+![shahib4asan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahib4asan&show_icons=true&theme=dark&hide_border=true&title_color=FF9933&icon_color=FF9933&text_color=c9d1d9&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahib4asan&layout=compact&theme=dark&hide_border=true&title_color=FF9933&text_color=c9d1d9&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shahib4asan&theme=dark&hide_border=true&ring=FF9933&fire=FF9933&currStreakLabel=FF9933)
+
+</div>
 
 ---
 
