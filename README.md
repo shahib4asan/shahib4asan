@@ -64,6 +64,4 @@ Dev       →  Git · GitHub · VS Code
 
 *Building the web for 230 million Bangla speakers.*
 
-**আমরা একসাথে তৈরি করব।** — We will build together.
-
 </div>
